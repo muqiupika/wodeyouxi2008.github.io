@@ -3,3 +3,4 @@
 <h2> 参与人员</h2>
 <p>@ 慕秋_pika   [站长]</p>
 <p>@RemyYYZ   [Windows版本库维护人]</p>
+<a href="https://mcbe.gq/" target="_blank" rel="noreferrer noopener">[点我直接跳转]</a>
